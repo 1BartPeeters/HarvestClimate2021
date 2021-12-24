@@ -11,3 +11,5 @@ The folder "reindeer data" contains:
 - *SigmaInt.Rdata*: covariance matrices between age-specific survival and fecundity for 9090 posterior models
 - *ROS.proj.Rdata* = array with simulations of ROS trajectories: 6000 simulations of 100 time steps for each of 5 scenarios (very low to very high frequencies of ROS; see Hansen et al. 2019 Nature Communications).
 - *AgeStruc.Rdata* = age structures of 0 to 13+ year old female reindeer during 1994-2014. These were estimated based on cohort analyses as the IPM estimated annual population sizes for six age classes.
+
+DOI: 10.5281/zenodo.5803068
